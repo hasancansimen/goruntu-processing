@@ -1,0 +1,9 @@
+C:\Users\hasancan simen\Desktop\görüntü işleme uygulamaları\GRİ metotları\GRİ metotları\bin\Debug\GRİ metotları.exe.config
+C:\Users\hasancan simen\Desktop\görüntü işleme uygulamaları\GRİ metotları\GRİ metotları\obj\Debug\GRİ metotları.csprojResolveAssemblyReference.cache
+C:\Users\hasancan simen\Desktop\görüntü işleme uygulamaları\GRİ metotları\GRİ metotları\obj\Debug\GRİ_metotları.Form1.resources
+C:\Users\hasancan simen\Desktop\görüntü işleme uygulamaları\GRİ metotları\GRİ metotları\obj\Debug\GRİ_metotları.Properties.Resources.resources
+C:\Users\hasancan simen\Desktop\görüntü işleme uygulamaları\GRİ metotları\GRİ metotları\obj\Debug\GRİ metotları.csproj.GenerateResource.Cache
+C:\Users\hasancan simen\Desktop\görüntü işleme uygulamaları\GRİ metotları\GRİ metotları\bin\Debug\GRİ metotları.exe
+C:\Users\hasancan simen\Desktop\görüntü işleme uygulamaları\GRİ metotları\GRİ metotları\bin\Debug\GRİ metotları.pdb
+C:\Users\hasancan simen\Desktop\görüntü işleme uygulamaları\GRİ metotları\GRİ metotları\obj\Debug\GRİ metotları.exe
+C:\Users\hasancan simen\Desktop\görüntü işleme uygulamaları\GRİ metotları\GRİ metotları\obj\Debug\GRİ metotları.pdb
